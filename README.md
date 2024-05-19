@@ -1,2 +1,2 @@
 # Mx-Player-Clone
-BETA Mx Player Clone
+Mx Player Clone
